@@ -6,6 +6,6 @@
 
 <!-- injae.hwnag@3watt.co -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingjae)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingjae&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswo950123@gmail.com)](mailto:dlswo950123@gmail.com)
