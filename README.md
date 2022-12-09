@@ -3,7 +3,7 @@
 - My name is **Injae Hwang** 🌱
 - Interested in **How can a robot do a better work?** 🤖
 - Now...**Robotics Engineer** at **WATT**
-
+- I want to make "working robot"
 <!-- injae.hwnag@3watt.co -->
 <!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ingjae&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
