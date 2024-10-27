@@ -10,11 +10,11 @@
  -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ingjae"
-    width="600"
-    height="500"
-  />
+<img
+  src="https://render.gitanimals.org/farms/ingjae"
+  width="850"
+  height="500"
+/>
 </a>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlswo950123@gmail.com)](mailto:dlswo950123@gmail.com)
